@@ -1,5 +1,7 @@
 ![Screenshot](Screenshot.jpg)
 
+# ВАЖНО!! Сурс фимоза на яву переписывал Gemini
+
 # BSFv67-Java
 
 This is a Brawl Stars Core server (version 67.264.1) rewritten in **Java**. It is a fork of the original repository: https://github.com/FMZNkdv/BSFv67.
